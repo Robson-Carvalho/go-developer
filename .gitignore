@@ -1,0 +1,34 @@
+# Arquivos temporários
+*.tmp
+*.bak
+
+# Diretórios gerados pelo build
+/bin/
+/pkg/
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração
+*.env
+*.yaml
+*.yml
+
+# Dependências e diretórios específicos do Go
+/vendor/
+/go.sum
+/go.mod
+
+# Binários executáveis
+*.exe
+*.out
+
+# Arquivos de dados
+*.db
+
+# Arquivos de backup
+.backup/
+
+# Arquivos de sistema
+Thumbs.db
+.DS_Store
