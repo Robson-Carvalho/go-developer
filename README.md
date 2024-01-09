@@ -14,8 +14,9 @@ Certifique-se de ter o Go instalado em seu sistema. Se ainda não o fez, você p
 Clone o repositório e navegue até o diretório:
 
 ```bash
-git clone https://github.com/Robson-Carvalho/hello-go.git
-cd hello-world-go
+git clone https://github.com/Robson-Carvalho/golang-studies.git
+cd golang-studies
+cd hello
 ```
 
 Execute o programa:
