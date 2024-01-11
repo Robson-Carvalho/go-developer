@@ -1,3 +1,10 @@
+/* Em Go (ou Golang), a palavra-chave range é utilizada em loops
+para iterar sobre elementos de estruturas de dados como slices,
+arrays, maps, strings, e canais. O range retorna dois valores: o
+índice (ou chave) e o valor do elemento na iteração atual. A
+forma básica de usar o range é em um loop for.
+*/
+
 package main
 
 import "fmt"
