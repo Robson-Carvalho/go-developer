@@ -3,39 +3,39 @@
 </p>
 
 <p align="center">
-<a><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
+  <a><img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=00add8&labelColor=323A46" alt="License"><a>
+  <a><img src="https://img.shields.io/github/forks/Robson-Carvalho/go-developer?label=forks&message=MIT&color=6ab99d&labelColor=323A46" alt="Forks"></a>
+  <a><img src="https://img.shields.io/github/stars/Robson-Carvalho/go-developer?label=stars&message=MIT&color=6ab99d&labelColor=323A46" alt="Stars"></a>
 </p>
 
-Este repositório contém um simples programa "Hello World" em Go (Golang). O objetivo deste projeto é fornecer um exemplo básico de um programa Go para iniciantes e aqueles que desejam explorar a linguagem.
-Como Executar
+# Repositório de Estudos em Go
 
-Certifique-se de ter o Go instalado em seu sistema. Se ainda não o fez, você pode obtê-lo em golang.org.
+Este repositório contém uma coleção de estudos em Go (Golang) abrangendo diversos tópicos, organizados em diferentes diretórios. Cada diretório representa uma área específica de aprendizado e prática.
 
-Clone o repositório e navegue até o diretório:
+## Tópicos Abordados
+
+1. **API Clients:** Exemplos relacionados à construção de clientes para APIs em Go.
+2. **ORMs (Object-Relational Mapping):** Demonstração de mapeamento objeto-relacional em Go.
+3. **Building CLIs (Command-Line Interfaces):** Construção de interfaces de linha de comando em Go.
+4. **Go Realtime Communication:** Exploração de comunicação em tempo real em Go.
+5. **Going Deeper:** Estudos mais aprofundados sobre recursos avançados da linguagem.
+6. **Logging:** Implementação e utilização de logs em Go.
+7. **Microservices:** Desenvolvimento de microserviços em Go.
+8. **Testing Go Code:** Técnicas e práticas para teste de código em Go.
+9. **Web Frameworks:** Uso e implementação de frameworks web em Go.
+
+## Como Utilizar
+
+Certifique-se de ter o Go instalado em seu sistema. Se ainda não o fez, você pode obtê-lo em [golang.org](https://golang.org/).
 
 ```bash
-git clone https://github.com/Robson-Carvalho/golang-studies.git
-cd golang-studies
-cd hello
+git clone https://github.com/Robson-Carvalho/go-developer.git
 ```
-
-Execute o programa:
 
 ```bash
-go run main.go
+cd go-developer
 ```
-
-Você verá a saída:
-
-```bash
-Hello, Go!
-```
-
-## Estrutura do Projeto
-
--   main.go: O arquivo principal contendo o código-fonte do programa "Hello World".
-
--   README.md: Este arquivo que fornece informações sobre o projeto.
 
 ## Contribuindo
 
@@ -62,12 +62,10 @@ git push origin feature/nova-funcionalidade.
 
 Abra um pull request descrevendo suas alterações.
 
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](./LICENSE). para detalhes.
+
 ## Autor
 
--   [@Robson-Carvalho](https://github.com/Robson-Carvalho).
-
-## License
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
-
--   [MIT licensed](./LICENSE).
+- [@Robson-Carvalho](https://github.com/Robson-Carvalho).
