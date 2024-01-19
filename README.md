@@ -13,7 +13,7 @@
 
 Este repositório contém uma coleção de estudos em Go (Golang) abrangendo diversos tópicos, organizados em diferentes diretórios. Cada diretório representa uma área específica de aprendizado e prática.
 
-## Tópicos Abordados
+## Tópicos de Estudo
 
 1. **API Clients:** Exemplos relacionados à construção de clientes para APIs em Go.
 2. **ORMs (Object-Relational Mapping):** Demonstração de mapeamento objeto-relacional em Go.
@@ -68,4 +68,15 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](./LI
 
 ## Autor
 
-- [@Robson-Carvalho](https://github.com/Robson-Carvalho).
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Robson-Carvalho" title="defina o titulo do link">
+        <img src="https://avatars.githubusercontent.com/u/82351564?v=4" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <sub>
+          <b>Robson Carvalho</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
